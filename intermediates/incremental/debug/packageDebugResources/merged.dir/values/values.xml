@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">School</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_assgi">AssgiActivity</string>
+    <string name="title_activity_assignment2">AssignmentActivity2</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_image2">ImageActivity2</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+    <style name="Theme.Kabuchi" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.School" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
